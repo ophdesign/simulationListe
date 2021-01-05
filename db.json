@@ -1,0 +1,16 @@
+{
+	"Simulationen":[
+      {
+      	"id": 1,
+      	"name": "heftige Simulation"
+      },
+      {
+		"id": 2,
+        "name": "atemberaubende Simulation"
+      },
+      {
+        "id": 3,
+		"name": "höchst interessante Simulation"
+      }
+      ]
+}
